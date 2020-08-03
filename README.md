@@ -1,1 +1,1 @@
-# java-project-twitter-simple
+# java-project-twitter
